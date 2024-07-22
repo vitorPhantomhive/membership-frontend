@@ -1,30 +1,6 @@
-# React + TypeScript + Vite
+# Ideia do projeto
+O projeto é da desenvolvedora Fernanda Kipper (https://github.com/Fernanda-Kipper) feito para consumir um backend 
+feito por um colega da faculdade, o projeto de antemão é para ser um front-end que vai consumir uma api que guarda eventos em fila. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Aprendendo ReactJs 
+O foco do projeto aqui é aprender como desenvolvedores mais experientes codam esse tipo de solução, o que eu pretendo aprender aqui são os padrões de nomenclatura, estrutura de código e um *overview* em ReactJs, para conseguir desenvolver soluções complexas sozinho
